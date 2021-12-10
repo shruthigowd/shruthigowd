@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shruthigowd
 - 👀 I’m interested in cloud,typescript,java
 - 🌱 I’m currently learning vue,python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
